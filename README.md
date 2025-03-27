@@ -1,6 +1,6 @@
 # I-COPE Study: SARS-CoV-2 Seroprevalence and Impact of COVID-19 among People Living with HIV in Kenya
 
-This repository contains SAS code used to generate descriptive statistics and visualizations for Table 1 and Table 2 of the I-COPE Study, which explores the seroprevalence of SARS-CoV-2 and the impact of COVID-19 among people living with HIV in Kenya.
+This repository contains SAS code used to generate descriptive statistics and visualizations for Table 1 and Table 2 of the I-COPE Study, which explores the seroprevalence of SARS-CoV-2 and the impact of COVID-19 among people living with HIV in Kenya. This was a project that I worked on during my time at [ICAP at Columbia University](https://icap.columbia.edu/), where I was employed as a Data Assistant.
 
 ## 📌 Objective
 To generate baseline characteristics (Table 1), COVID-19 vaccination uptake patterns (Table 2), and stratified statistics by healthcare facility for individuals enrolled in the I-COPE study using survey and clinical data.
