@@ -31,6 +31,21 @@ To generate baseline characteristics (Table 1), COVID-19 vaccination uptake patt
 - Two-week increment grouping for vaccination timing visualization
 - Comparison of vaccination variables by adopter phase, gender, age, and facility
 
+## 📈 Visualizations
+### Time Since ART Initiation (Days)
+![ART Initiation](docs/time_since_artinitiation_days.png)
+
+### Time Since Most Recent Viral Load (Months)
+![Viral Load](docs/time_since_viralload_months.png)
+
+### Time Since HIV Diagnosis (Years)
+![HIV Diagnosis](docs/time_since_hivdiagnosis_years.png)
+
+## ⚠️ Data Disclaimer
+The original dataset is not included in this repository due to privacy restrictions. The code is designed to work with a `.dta` file containing de-identified survey and clinical data.
+
+If you wish to test the code, consider creating a mock dataset with the same variable structure.
+
 ## ⚠️ Data Disclaimer
 The original dataset is not included in this repository due to privacy restrictions. The code is designed to work with a `.dta` file containing de-identified survey and clinical data.
 
